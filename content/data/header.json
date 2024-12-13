@@ -20,7 +20,7 @@
             "style": "primary",
             "type": "Link",
             "showIcon": false,
-            "elementId": ""
+            "elementId": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin><link href=\"https://fonts.googleapis.com/css2?family=Bangers&family=Climate+Crisis&family=League+Spartan:wght@100..900&family=Luckiest+Guy&display=swap\" rel=\"stylesheet\">"
         },
         {
             "label": "Blog",
