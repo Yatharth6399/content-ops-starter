@@ -20,7 +20,7 @@
             "style": "primary",
             "type": "Link",
             "showIcon": false,
-            "elementId": "// <uniquifier>: Use a unique and descriptive class name// <weight>: Use a value from 100 to 900.league-spartan-<uniquifier> {  font-family: \"League Spartan\", sans-serif;  font-optical-sizing: auto;  font-weight: <weight>;  font-style: normal;}"
+            "elementId": ""
         },
         {
             "label": "Blog",
