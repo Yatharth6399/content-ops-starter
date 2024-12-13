@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Designs that Challenge the
+      text: Designs that Challenge the Ordinary
       color: text-primary
       type: TitleBlock
       styles:
