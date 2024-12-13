@@ -35,7 +35,7 @@ sections:
         type: Link
     media:
       url: /images/Prisha MULTI RTX-Camera 2.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: 'Prisha '
       elementId: ''
       type: ImageBlock
     badge:
