@@ -58,6 +58,8 @@ sections:
           - pr-16
       text:
         textAlign: left
+      subtitle:
+        fontStyle: italic
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
