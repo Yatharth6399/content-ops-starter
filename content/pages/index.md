@@ -12,9 +12,9 @@ sections:
           fontWeight: 700
     subtitle: Make Your Brand Stand OUT!
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+
+      Bold and distinctive designs that help your brand stand out. Crafting
+      unique visual identities to make a lasting impression and drive success.
     actions:
       - label: Get started
         altText: ''
