@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /work
         showIcon: false
         icon: arrowRight
         iconPosition: right
