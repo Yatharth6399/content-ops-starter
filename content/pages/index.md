@@ -44,7 +44,8 @@ sections:
       color: text-primary
       type: Badge
       styles:
-        self: {}
+        self:
+          fontWeight: 400
     elementId: ''
     colors: bg-light-fg-dark
     styles:
