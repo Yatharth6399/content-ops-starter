@@ -4,22 +4,24 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
-      color: text-dark
+      text: Designs that Challenge the Ordinary
+      color: text-primary
       type: TitleBlock
-    subtitle: Subtitle goes here
+      styles:
+        self:
+          fontWeight: 700
+    subtitle: Make Your Brand Stand OUT!
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      *Bold and distinctive designs that help your brand stand out. Crafting
+      unique visual identities to make a lasting impression and drive success.*
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /work
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
       - label: See Tutorials
@@ -32,14 +34,17 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/Prisha MULTI RTX-Camera 2.jpg
+      altText: 'Prisha: Where Tradition Meets Timeless Beauty ✨'
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Packaging and Branding Solutions
       color: text-primary
       type: Badge
+      styles:
+        self:
+          fontWeight: 400
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -51,6 +56,9 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      text:
+        textAlign: left
+      subtitle: {}
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -218,6 +226,13 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: Explore My Case Studies
+      color: text-dark
+      styles:
+        self:
+          fontWeight: 400
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -435,7 +450,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +480,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +540,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +570,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +665,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -739,9 +759,13 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Yatharth Bhardwaj - Packaging and Brand Identity Designs
+  metaDescription: >-
+    Bold and distinctive designs that help your brand stand out. Crafting unique
+    visual identities to make a lasting impression and drive success.
   type: Seo
+  addTitleSuffix: true
+  socialImage: /images/hero2.svg
+  metaTags: []
 type: PageLayout
 ---
