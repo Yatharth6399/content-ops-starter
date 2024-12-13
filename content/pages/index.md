@@ -222,6 +222,9 @@ sections:
       type: TitleBlock
       text: Explore My Case Studies
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
   - title: Divider
     colors: bg-light-fg-dark
     styles:
