@@ -35,7 +35,7 @@ sections:
         type: Link
     media:
       url: /images/Prisha MULTI RTX-Camera 2.jpg
-      altText: 'Prisha '
+      altText: 'Prisha: Where Tradition Meets Timeless Beauty ✨'
       elementId: ''
       type: ImageBlock
     badge:
