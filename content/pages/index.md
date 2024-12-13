@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Designs that Challenge the Ordinary
       color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
