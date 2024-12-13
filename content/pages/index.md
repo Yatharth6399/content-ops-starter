@@ -220,7 +220,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Work
+      text: Explore My Case Studies
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
