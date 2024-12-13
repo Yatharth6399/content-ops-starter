@@ -751,8 +751,6 @@ seo:
   type: Seo
   addTitleSuffix: true
   socialImage: /images/hero2.svg
-  metaTags:
-    - type: MetaTag
-      property: 'og:title'
+  metaTags: []
 type: PageLayout
 ---
