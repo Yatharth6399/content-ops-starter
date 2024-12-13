@@ -750,5 +750,6 @@ seo:
     visual identities to make a lasting impression and drive success.
   type: Seo
   addTitleSuffix: true
+  socialImage: /images/hero2.svg
 type: PageLayout
 ---
