@@ -43,6 +43,9 @@ sections:
       label: This is a badge
       color: text-primary
       type: Badge
+      styles:
+        self:
+          fontStyle: italic
     elementId: ''
     colors: bg-light-fg-dark
     styles:
