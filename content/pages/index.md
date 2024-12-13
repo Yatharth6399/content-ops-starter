@@ -745,7 +745,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Yatharth Bhardwaj - Packaging and Brand Identity Designs
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Bold and distinctive designs that help your brand stand out. Crafting unique
+    visual identities to make a lasting impression and drive success.
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
