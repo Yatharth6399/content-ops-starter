@@ -58,6 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/empathy-logo.svg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
