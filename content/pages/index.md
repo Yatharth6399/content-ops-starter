@@ -753,5 +753,6 @@ seo:
   socialImage: /images/hero2.svg
   metaTags:
     - type: MetaTag
+      property: 'og:title'
 type: PageLayout
 ---
