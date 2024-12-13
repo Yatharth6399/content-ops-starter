@@ -12,9 +12,8 @@ sections:
           fontWeight: 700
     subtitle: Make Your Brand Stand OUT!
     text: >
-
-      Bold and distinctive designs that help your brand stand out. Crafting
-      unique visual identities to make a lasting impression and drive success.
+      *Bold and distinctive designs that help your brand stand out. Crafting
+      unique visual identities to make a lasting impression and drive success.*
     actions:
       - label: Get started
         altText: ''
