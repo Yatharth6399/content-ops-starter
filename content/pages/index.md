@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Packaging and Branding Solutions
       color: text-primary
       type: Badge
       styles:
