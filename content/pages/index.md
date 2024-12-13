@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: '--  Yatharth Bhardwaj'
+    subtitle: >-
+      Helping startups and brands to craft expressive and engaging solutions for
+      their software needs.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
