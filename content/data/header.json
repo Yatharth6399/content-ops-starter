@@ -70,17 +70,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "type": "Link",
-            "label": "Play",
-            "altText": "work",
-            "url": "/work",
-            "showIcon": true,
-            "icon": "play",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
