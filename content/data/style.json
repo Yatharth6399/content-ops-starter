@@ -9,7 +9,7 @@
     "h1": {
         "size": "6xl",
         "weight": "bold",
-        "decoration": "line-through",
+        "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
