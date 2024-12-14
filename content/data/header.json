@@ -16,7 +16,7 @@
             "label": "Work",
             "url": "/work",
             "icon": "arrowRight",
-            "iconPosition": "left",
+            "iconPosition": "right",
             "style": "primary",
             "type": "Link",
             "showIcon": false,
