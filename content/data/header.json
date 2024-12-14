@@ -20,7 +20,7 @@
             "style": "primary",
             "type": "Link",
             "showIcon": false,
-            "elementId": ""
+            "elementId": "#white-bold-text {  color: white;  font-weight: bold;  font-family: sans-serif;}"
         },
         {
             "label": "Blog",
