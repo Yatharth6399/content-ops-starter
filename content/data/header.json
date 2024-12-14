@@ -20,7 +20,7 @@
             "style": "primary",
             "type": "Link",
             "showIcon": false,
-            "elementId": "<h2 id=\"white-bold-text\">Your Text Here</h2>"
+            "elementId": "<h2 id=\"white-bold-text\">Work</h2>"
         },
         {
             "label": "Blog",
