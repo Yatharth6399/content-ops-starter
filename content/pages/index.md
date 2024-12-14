@@ -2,6 +2,63 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: Designs that Challenge the Ordinary
+      color: text-primary
+      type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
+    subtitle: Make Your Brand Stand OUT!
+    text: >
+      *Bold and distinctive designs that help your brand stand out. Crafting
+      unique visual identities to make a lasting impression and drive success.*
+    actions:
+      - label: Get started
+        altText: ''
+        url: /work
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/Prisha MULTI RTX-Camera 2.jpg
+      altText: 'Prisha: Where Tradition Meets Timeless Beauty ✨'
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: Packaging and Branding Solutions
+      color: text-primary
+      type: Badge
+      styles:
+        self:
+          fontWeight: 400
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+      text:
+        textAlign: left
+      subtitle: {}
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -119,63 +176,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: Designs that Challenge the Ordinary
-      color: text-primary
-      type: TitleBlock
-      styles:
-        self:
-          fontWeight: 700
-    subtitle: Make Your Brand Stand OUT!
-    text: >
-      *Bold and distinctive designs that help your brand stand out. Crafting
-      unique visual identities to make a lasting impression and drive success.*
-    actions:
-      - label: Get started
-        altText: ''
-        url: /work
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/Prisha MULTI RTX-Camera 2.jpg
-      altText: 'Prisha: Where Tradition Meets Timeless Beauty ✨'
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: Packaging and Branding Solutions
-      color: text-primary
-      type: Badge
-      styles:
-        self:
-          fontWeight: 400
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-      text:
-        textAlign: left
-      subtitle: {}
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
