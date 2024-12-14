@@ -41,7 +41,7 @@
     "h5": {
         "size": "xl",
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "line-through",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
