@@ -24,7 +24,7 @@
         },
         {
             "label": "About Me",
-            "altText": "Blog",
+            "altText": "About Me",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
