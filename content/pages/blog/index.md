@@ -1,7 +1,7 @@
 ---
 title: Projects
 slug: /blog
-numOfPostsPerPage: 0
+numOfPostsPerPage: 3
 enableSearch: true
 topSections:
   - title:
