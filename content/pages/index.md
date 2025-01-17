@@ -50,7 +50,7 @@ sections:
       text:
         textAlign: left
       subtitle: {}
-  - subtitle: Award winning enterprises trust us
+  - subtitle: My Toolkit
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
