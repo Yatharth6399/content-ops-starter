@@ -12,15 +12,7 @@ sections:
           fontWeight: 700
     subtitle: Make Your Brand Stand OUT!
     text: |+
-      ##### I create designs that don’t just
 
-      ##### *look good,*
-
-      ##### but tell a *compelling story,*
-
-      ##### *spark emotions,*
-
-      ##### and *make an impact*.
 
     actions:
       - label: Get started
