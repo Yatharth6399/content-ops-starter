@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 171.97 55">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-family: Rubik-Bold, Rubik;
+        font-size: 19.06px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <image width="3000" height="2926" transform="scale(.02)" xlink:href="pngwing.com.png"/>
+  <text class="cls-2" transform="translate(68 35.16)"><tspan x="0" y="0">Ph</tspan><tspan class="cls-1" x="25.27" y="0">o</tspan><tspan x="36.86" y="0">toshop</tspan></text>
+</svg>
