@@ -8,7 +8,7 @@ excerpt: >-
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
   url: /images/Prisha MULTI RTX-Camera 2.jpg
-  altText: Thumbnail
+  altText: Prisha
   type: ImageBlock
   styles:
     self:
