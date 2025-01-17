@@ -3,9 +3,11 @@ title: Project Brief
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Prisha Hair Oils combines the natural goodness of coconut, olive, and almond
+  oils, trusted in Indian hair care for generations. Designed for young women,
+  it celebrates tradition while providing nourishment, strength, and shine. With
+  Prisha, experience the beauty of simplicity and the power of nature in every
+  drop.
 featuredImage:
   url: /images/Prisha MULTI RTX-Camera 2.jpg
   altText: Prisha
