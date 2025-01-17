@@ -5,7 +5,7 @@ numOfPostsPerPage: 3
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Prisha Hair Oils
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
