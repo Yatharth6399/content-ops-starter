@@ -52,7 +52,7 @@ sections:
       subtitle: {}
   - subtitle: Tools I really love
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/pngwing.com.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
