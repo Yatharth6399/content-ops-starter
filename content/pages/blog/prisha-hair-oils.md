@@ -1,6 +1,6 @@
 ---
 title: Project Brief
-slug: top-ten-lessons-we-learned
+slug: prisha-hair-oils
 date: '2021-08-25'
 excerpt: >-
   Prisha Hair Oils combines the natural goodness of coconut, olive, and almond
