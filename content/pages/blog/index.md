@@ -8,7 +8,12 @@ topSections:
       text: Prisha Hair Oils
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: >-
+      Prisha Hair Oils combines the natural goodness of coconut, olive, and
+      almond oils, trusted in Indian hair care for generations. Designed for
+      young women, it celebrates tradition while providing nourishment,
+      strength, and shine. With Prisha, experience the beauty of simplicity and
+      the power of nature in every drop.
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
