@@ -24,15 +24,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Prisha MULTI RTX-Camera 2.jpg
       altText: 'Prisha: Where Tradition Meets Timeless Beauty ✨'
