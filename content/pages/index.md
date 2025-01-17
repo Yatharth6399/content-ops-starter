@@ -50,7 +50,7 @@ sections:
       text:
         textAlign: left
       subtitle: {}
-  - subtitle: 'Tools I love '
+  - subtitle: Tools I really love
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
