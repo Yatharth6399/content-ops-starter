@@ -8,7 +8,7 @@ topSections:
       text: Prisha Hair Oils
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
