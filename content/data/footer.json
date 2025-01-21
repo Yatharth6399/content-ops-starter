@@ -22,7 +22,7 @@
             {
                 "type": "Link",
                 "label": "Send email",
-                "altText": "Play",
+                "altText": "",
                 "url": "mailto:contact@yatharthbhardwaj.in",
                 "showIcon": true,
                 "icon": "mail",
