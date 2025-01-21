@@ -21,6 +21,17 @@
             },
             {
                 "type": "Link",
+                "label": "Send email",
+                "altText": "Play",
+                "url": "mailto:contact@yatharthbhardwaj.in",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "LinkedIn",
                 "altText": "LinkedIn",
                 "url": "www.linkedin.com/in/yathaarthhhh",
