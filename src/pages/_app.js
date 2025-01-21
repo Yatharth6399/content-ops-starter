@@ -1,5 +1,5 @@
 import Script from 'next/script';
-import '../styles/globals.css'; // Your CSS imports if any
+import '../styles/main.css'; // Your CSS imports if any
 
 export default function App({ Component, pageProps }) {
   return (
