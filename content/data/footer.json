@@ -80,7 +80,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:contact@yatharthbhardwaj.in",
             "icon": "mail",
             "type": "Social"
         }
