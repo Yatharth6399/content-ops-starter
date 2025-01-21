@@ -11,28 +11,19 @@ sections:
         self:
           fontWeight: 700
     subtitle: Make Your Brand Stand OUT!
-    text: >
-      *Bold and distinctive designs that help your brand stand out. Crafting
-      unique visual identities to make a lasting impression and drive success.*
+    text: |+
+
+
     actions:
       - label: Get started
         altText: ''
-        url: /work
+        url: www.linkedin.com/in/yathaarthhhh
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Prisha MULTI RTX-Camera 2.jpg
       altText: 'Prisha: Where Tradition Meets Timeless Beauty ✨'
@@ -40,7 +31,7 @@ sections:
       type: ImageBlock
     badge:
       label: Packaging and Branding Solutions
-      color: text-primary
+      color: text-dark
       type: Badge
       styles:
         self:
@@ -59,126 +50,9 @@ sections:
       text:
         textAlign: left
       subtitle: {}
-  - type: FeaturedItemsSection
-    title:
-      text: Key Benefits
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Tools I really love
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/N.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg

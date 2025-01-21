@@ -1,86 +1,65 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Asset 2@4x.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
+    "text": "Helping Brands Stand Out!\n",
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Social",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
+                "type": "Link",
+                "label": "Twitter",
+                "altText": "Twitter",
+                "url": "www.x.com/yathaarthhhh",
+                "showIcon": true,
+                "icon": "twitter",
+                "iconPosition": "left",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
+                "type": "Link",
+                "label": "Send email",
+                "altText": "",
+                "url": "mailto:contact@yatharthbhardwaj.in",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "left",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "LinkedIn",
+                "altText": "LinkedIn",
+                "url": "www.linkedin.com/in/yathaarthhhh",
+                "showIcon": true,
+                "icon": "linkedin",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "https://x.com/yathaarthhhh",
             "icon": "twitter",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/yathaarthhhh",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:contact@yatharthbhardwaj.in",
             "icon": "mail",
             "type": "Social"
         }
