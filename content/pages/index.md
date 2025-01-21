@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /work
+        url: www.linkedin.com/in/yathaarthhhh
         showIcon: false
         icon: arrowRight
         iconPosition: right
