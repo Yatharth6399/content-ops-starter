@@ -7,7 +7,19 @@
     "text": "Helping Brands Stand Out!\n",
     "secondaryLinks": {
         "title": "Social",
-        "links": [],
+        "links": [
+            {
+                "type": "Link",
+                "label": "LinkedIn",
+                "altText": "LinkedIn",
+                "url": "www.linkedin.com/in/yathaarthhhh",
+                "showIcon": true,
+                "icon": "linkedin",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
