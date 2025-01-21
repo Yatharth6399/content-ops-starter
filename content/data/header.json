@@ -77,7 +77,7 @@
         {
             "label": "Let's Talk",
             "altText": "Message",
-            "url": "/",
+            "url": "mailto:contact@yatharthbhardwaj.in",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
