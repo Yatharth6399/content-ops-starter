@@ -25,7 +25,7 @@
         {
             "label": "About Me",
             "altText": "About Me",
-            "url": "/blog",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
