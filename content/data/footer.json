@@ -10,6 +10,17 @@
         "links": [
             {
                 "type": "Link",
+                "label": "Twitter",
+                "altText": "Twitter",
+                "url": "www.x.com/yathaarthhhh",
+                "showIcon": true,
+                "icon": "twitter",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "LinkedIn",
                 "altText": "LinkedIn",
                 "url": "www.linkedin.com/in/yathaarthhhh",
