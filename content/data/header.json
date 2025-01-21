@@ -76,7 +76,7 @@
     "secondaryLinks": [
         {
             "label": "Let's Talk",
-            "altText": "Sign up",
+            "altText": "Message",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
