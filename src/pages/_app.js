@@ -1,5 +1,5 @@
 import Script from 'next/script';
-import '../styles/main.css'; // Your CSS imports if any
+import 'content-ops-starter/src/css/main.css'; // Your CSS imports if any
 
 export default function App({ Component, pageProps }) {
   return (
